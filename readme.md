@@ -2,7 +2,7 @@
 
 ## Motivation 
 
-Original site for collecting singlish associations (https://singlishwords.nus.edu.sg/) might not be sustainable. This serves as a "poor man's" back up so that data collection can continue.
+Original site for collecting singlish associations (https://singlishwords.nus.edu.sg/) might not be sustainable. This serves as a "poor man's" version so that data collection can continue into the future. The current version (Feb 2025) is currently used to collect data from the general public. 
 
 ## Libraries needed
 
@@ -17,16 +17,14 @@ Jaysire documentation: https://jaysire.djnavarro.net/index.html
 
 Uncomment the relevant sections at the end of `script.R` and comment out the web deployment section. 
 
-## Demo site (hosted on a jatos instance)
+## Live version (hosted on a jatos instance)
 
-https://bit.ly/singlish-associations
+http://language-research.csqsiew.xyz:9000/publix/e5kGs3Nmtjq (note that reimbursement is only for eligible participants - please email singlishwords@nus.edu.sg if you wish to participate to first check on your eligibility)
 
 JATOS documentation: https://www.jatos.org/Whats-JATOS.html
 
 ## to dos 
 
-- include other demographic questions (but be aware of the many limits in jspsych; see below)
-- include full master list of cues, increase number of cues, currently 5 
 - try to improve overall look and feel
 
 ### not possible (within jaysire/jspsych)

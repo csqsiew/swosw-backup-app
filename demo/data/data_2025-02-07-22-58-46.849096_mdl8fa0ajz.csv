@@ -1,0 +1,12 @@
+file_id,view_history,rt,trial_type,trial_index,time_elapsed,internal_node_id,responses,question_order,cue
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,"[{""page_index"":0,""viewing_time"":52587.5},{""page_index"":1,""viewing_time"":2216.5}]",54804.40000000002,instructions,0,54807,0.0-0.0-0.0,NA,NA,NA
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,NA,16639.300000000047,survey-multi-choice,1,71949,0.0-0.0-1.0,"{""gender"":""Male"",""ethnicity"":""Chinese"",""sge_speaker"":""Yes"",""sg_birth"":""Yes"",""sg_resident"":""Yes""}","[0,1,2,3,4]",NA
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,NA,10183.20000000007,survey-text,2,82154,0.0-0.0-2.0,"{""age"":""32"",""sg_yrs"":""32"",""other_languages"":""none""}",NA,NA
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,"[{""page_index"":0,""viewing_time"":14164},{""page_index"":1,""viewing_time"":4162.400000000023}]",18326.70000000007,instructions,3,100482,0.0-0.0-3.0,NA,NA,NA
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,NA,9282.599999999977,survey-text,4,110323,0.0-0.0-4.0-0.0,"{""Q0"":""dk"",""Q1"":"""",""Q2"":""""}",NA,<h2>bujang terlajak</h2>
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,NA,2659,survey-text,5,112985,0.0-0.0-4.0-0.1,"{""Q0"":""dk"",""Q1"":"""",""Q2"":""""}",NA,<h2>cake lapis</h2>
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,NA,2083.5,survey-text,6,115071,0.0-0.0-4.0-0.2,"{""Q0"":""dk"",""Q1"":"""",""Q2"":""""}",NA,<h2>perasan busy</h2>
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,NA,2057.9000000000233,survey-text,7,117132,0.0-0.0-4.0-0.3,"{""Q0"":""dk"",""Q1"":"""",""Q2"":""""}",NA,<h2>indonesian cuisine</h2>
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,NA,1979.0999999999767,survey-text,8,119113,0.0-0.0-5.0-0.0,"{""Q0"":""dk"",""Q1"":"""",""Q2"":""""}",NA,<h2>talk cock</h2>
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,NA,3890.29999999993,survey-text,9,123005,0.0-0.0-5.0-0.1,"{""Q0"":""dk"",""Q1"":"""",""Q2"":""""}",NA,<h2>kampong</h2>
+data_2025-02-07-22-58-46.849096_mdl8fa0ajz,"[{""page_index"":0,""viewing_time"":12858.199999999953}]",12858.399999999909,instructions,10,135864,0.0-0.0-6.0,NA,NA,NA

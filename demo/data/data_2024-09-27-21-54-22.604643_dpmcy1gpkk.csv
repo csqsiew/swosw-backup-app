@@ -1,0 +1,10 @@
+file_id,view_history,rt,trial_type,trial_index,time_elapsed,internal_node_id,responses,question_order,cue
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,"[{""page_index"":0,""viewing_time"":1516.6970000000001},{""page_index"":1,""viewing_time"":433.3420000000001},{""page_index"":2,""viewing_time"":500.00999999999976},{""page_index"":1,""viewing_time"":3616.7390000000005},{""page_index"":2,""viewing_time"":433.34199999999964},{""page_index"":3,""viewing_time"":633.3459999999995}]",7133.476,instructions,0,7117,0.0-0.0-0.0,NA,NA,NA
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,NA,7066.808,survey-multi-choice,1,14700,0.0-0.0-1.0,"{""gender"":""Female"",""ethnicity"":""Chinese"",""sge_speaker"":""Yes""}","[0,1,2]",NA
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,NA,7933.492000000002,survey-text,2,22650,0.0-0.0-2.0,"{""Q0"":""36"",""Q1"":""chinese""}",NA,NA
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,NA,15633.646,survey-text,3,38300,0.0-0.0-3.0-0.0,"{""Q0"":""q"",""Q1"":""q"",""Q2"":""q""}",NA,agak agak
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,NA,2133.375999999997,survey-text,4,40417,0.0-0.0-3.0-0.1,"{""Q0"":""q"",""Q1"":""q"",""Q2"":""q""}",NA,dapao
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,NA,1683.3669999999984,survey-text,5,42101,0.0-0.0-3.0-0.2,"{""Q0"":""q"",""Q1"":""q"",""Q2"":""q""}",NA,shiok
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,NA,1750.0350000000035,survey-text,6,43867,0.0-0.0-3.0-0.3,"{""Q0"":""q"",""Q1"":""q"",""Q2"":""q""}",NA,mafan
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,NA,1683.3669999999984,survey-text,7,45534,0.0-0.0-3.0-0.4,"{""Q0"":""q"",""Q1"":""q"",""Q2"":""q""}",NA,makan
+data_2024-09-27-21-54-22.604643_dpmcy1gpkk,"[{""page_index"":0,""viewing_time"":7200.144}]",7200.144,instructions,8,52751,0.0-0.0-4.0,NA,NA,NA

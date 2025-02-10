@@ -11009,7 +11009,7 @@ var timeline = {
         // SAMPLE FROM STIMULI
   sample: {
     type: "without-replacement",
-    size: 60, // 60 stimuli for main
+    size: 4, // 2 stimuli
   },
       "randomize_order": true
     },
@@ -11363,7 +11363,7 @@ var timeline = {
         // SAMPLE FROM STIMULI
   sample: {
     type: "without-replacement",
-    size: 5, // 5 stimuli as data quality checks
+    size: 2, // 2 stimuli
   },
       "randomize_order": true
     },
@@ -11385,8 +11385,13 @@ var timeline = {
 jsPsych.init(
 {
   "timeline": [timeline],
-  "on_finish": () => jatos.endStudy(jsPsych.data.get().json()),
-  "on_close": () => jatos.endStudy(jsPsych.data.get().json()),
-  "show_progress_bar": [true]
+  "on_finish": function() {
+    var data = jsPsych.data.get().csv();
+    var file = 'xprmntr_local_name';
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', 'submit');
+    xhr.setRequestHeader('Content-Type', 'application/json');
+    xhr.send(JSON.stringify({filename: file, filedata: data}));
+  }
 }
 );

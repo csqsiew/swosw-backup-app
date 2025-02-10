@@ -1,0 +1,9 @@
+file_id,view_history,rt,trial_type,trial_index,time_elapsed,internal_node_id,responses,question_order,cue
+data_2025-02-07-14-13-00.769083_vk17t3atjw,"[{""page_index"":0,""viewing_time"":1494.6000000005588},{""page_index"":1,""viewing_time"":1092.0999999996275}]",2586.9000000003725,instructions,0,2589,0.0-0.0-0.0,NA,NA,NA
+data_2025-02-07-14-13-00.769083_vk17t3atjw,NA,6840.9000000003725,survey-multi-choice,1,9931,0.0-0.0-1.0,"{""gender"":""Male"",""ethnicity"":""Chinese"",""sge_speaker"":""Yes"",""sg_birth"":""Yes"",""sg_resident"":""Yes""}","[0,1,2,3,4]",NA
+data_2025-02-07-14-13-00.769083_vk17t3atjw,NA,3795,survey-text,2,13729,0.0-0.0-2.0,"{""age"":""21"",""sg_yrs"":""21"",""other_languages"":""x""}",NA,NA
+data_2025-02-07-14-13-00.769083_vk17t3atjw,"[{""page_index"":0,""viewing_time"":4816.9000000003725},{""page_index"":1,""viewing_time"":1084.0999999996275}]",5901.100000000559,instructions,3,19630,0.0-0.0-3.0,NA,NA,NA
+data_2025-02-07-14-13-00.769083_vk17t3atjw,NA,2835.2000000001863,survey-text,4,22969,0.0-0.0-4.0-0.0,"{""Q0"":""x"",""Q1"":"""",""Q2"":""""}",NA,<h2>sian</h2>
+data_2025-02-07-14-13-00.769083_vk17t3atjw,NA,2931.7999999998137,survey-text,5,25903,0.0-0.0-4.0-0.1,"{""Q0"":""x"",""Q1"":"""",""Q2"":""""}",NA,<h2>lagi</h2>
+data_2025-02-07-14-13-00.769083_vk17t3atjw,NA,2573.9000000003725,survey-text,6,28478,0.0-0.0-5.0-0.0,"{""Q0"":""x"",""Q1"":"""",""Q2"":""""}",NA,kilat
+data_2025-02-07-14-13-00.769083_vk17t3atjw,"[{""page_index"":0,""viewing_time"":1586.9000000003725}]",1587.1000000005588,instructions,7,30065,0.0-0.0-6.0,NA,NA,NA
